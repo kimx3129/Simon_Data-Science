@@ -1,7 +1,7 @@
 # Capstone Project
 
 ## Objective
-- The goal of this project is to count the number of fingers through the live cam (accuracy is not that very perfect). First, it takes a few seconds to calculate accumulated average for the background and once it is ready we can put our hand into the ROI. Once hand is detected, another window will be popped up for displaying a series of binary threshold images. 
+- The goal of this project is to count the number of fingers through the live cam (accuracy is not that very perfect). First, it takes a few seconds to calculate accumulated average for the background and once it is ready we can put our hand into the ROI (a predefined red square on the cam). Once hand is detected, another window will be popped up for displaying a series of binary threshold images. 
 
 ## Used libraries 
 - Numpy
@@ -43,3 +43,8 @@
 
 *Three Fingers*
 ![Init](https://github.com/kimx3129/Simon_Data-Science/blob/master/Computer%20Vision/Capstone%20Project/Three%203.15.56%20AM.png)
+
+
+## Reference
+[1] Convex Hull 
+![CH](https://github.com/kimx3129/Simon_Data-Science/blob/master/Computer%20Vision/Capstone%20Project/ch.png)
