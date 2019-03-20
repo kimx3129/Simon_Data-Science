@@ -12,4 +12,7 @@ This is the main repository for all Simon's works including a project, self-stud
 
 **Udemy Lecture (Cracking Python Code for Newbies)** : https://www.udemy.com/cracking-python-code-for-newbies/learn/lecture/13628386#overview
 
+
+
+
 Copyright Simon 03.20.2019
