@@ -13,4 +13,4 @@ In this project our glao is to draw sketch on our webcam.
 
 ## Result
 
-
+![res](https://github.com/kimx3129/Simon_Data-Science/blob/master/Computer%20Vision2/Mini_Project%201%20(live%20sketch%20webcam)/result.png?raw=true)
