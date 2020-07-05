@@ -8,9 +8,11 @@ This is the main repository for all Simon's works including a project(mostly fro
 ### (SIMON Social Medias)
 **LinkedIn** : https://www.linkedin.com/in/sungminkim510/
 
-**Simon Data Science Blog** : https://kimx3129.github.io/emerald/
+**Simon Kim Personal Blog** : https://blog.naver.com/zeus05100
 
 **Udemy Lecture (Cracking Python Code for Newbies)** : https://www.udemy.com/cracking-python-code-for-newbies/
+
+**Inflearn AWS Lecture(Korean)** : https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8
 
 
 
